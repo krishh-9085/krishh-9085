@@ -55,5 +55,4 @@
 <h3 align="left">Featured Projects:</h3>
 <ul>
   <li>🚀 <b>Plant Disease Recognition</b>: Applied deep learning models for effective training and prediction in plant health. <a href="https://plant-disease-project.streamlit.app/" target="_blank">View Here</a></li>
-  <li>💡 <b>Portfolio Website</b>: Developed a personal portfolio to showcase projects and skills using HTML, CSS, and JavaScript. <a href="https://your-portfolio-link.com" target="_blank">View Here</a></li>
 </ul>
