@@ -39,5 +39,6 @@
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishh-9085&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+ <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
   
