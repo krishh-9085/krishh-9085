@@ -12,7 +12,7 @@
 🌱 I’m currently enhancing my skills in **Data Structures & Algorithms (DSA), JavaScript, and CSS**
 - 🤖 I’m fascinated by Artificial Intelligence and Machine Learning, with a special focus on **Deep Learning** and **Computer Vision**
 - 🔍 I recently worked on a **Plant Disease Recognition** project, where I applied deep learning for training and predicting plant health
-- 👨‍💻 [Check out my Portfolio](https://krishhportfolio.vercel.app/) to see my projects and achievements
+- 👨‍💻 [Check out my Portfolio](https://krishna-rohillaportfolio.vercel.app/) to see my projects and achievements
 - 💬 Ask me about **Python, C++, or Machine Learning frameworks (TensorFlow, Scikit-Learn )**
 - 📫 Reach out via **rohillakrish2@gmail.com**
 
