@@ -6,7 +6,7 @@
   Turning ideas into impactful digital products with <strong>clean design</strong>, <strong>scalable architecture</strong>, and <strong>modern AI</strong>.</p>
   
   <p>
-    <a href="https://krishna-rohillaportfolio.vercel.app/" target="_blank">
+    <a href="https://krishnarohilla.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://linkedin.com/in/krishna-rohilla" target="_blank">
