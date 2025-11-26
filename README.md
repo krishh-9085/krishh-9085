@@ -122,19 +122,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishh-9085&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh-9085&theme=radical&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh-9085&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="Snake animation" />
   
