@@ -114,7 +114,7 @@
 
 <br/>
 
-**[📂 View All Projects →](https://krishna-rohillaportfolio.vercel.app/)**
+**[📂 View All Projects →](https://krishnarohilla.me)**
 
 </td>
 </tr>
