@@ -1,133 +1,93 @@
 <div align="center">
-  <h1>👋 Hey there! I'm <strong>Krishna Rohilla</strong></h1>
-  <h3>🚀 Full Stack Developer | Software Engineer | ML Enthusiast</h3>
-  
-  <p>Passionate about crafting high-performance web applications and intelligent ML solutions.<br/>
-  Turning ideas into impactful digital products with <strong>clean design</strong>, <strong>scalable architecture</strong>, and <strong>modern AI</strong>.</p>
-  
-  <p>
-    <a href="https://krishnarohilla.me/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/krishna-rohilla" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://leetcode.com/u/krishh_9085/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-    <a href="mailto:rohillakrish2@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+
+# ⚡ Krishna Rohilla
+### 🚀 Full Stack Developer | AI/ML Enthusiast | Problem Solver
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Integrating+AI+Solutions;Solving+Real-World+Problems;Mastering+DSA" alt="Typing SVG" />
+</p>
+
+💡 **Turning complex logic into elegant code.**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://krishnarohilla.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-rohilla)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishh_9085/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohillakrish2@gmail.com)
+
 </div>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I’m a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a strong focus on building **scalable backend systems and intelligent, data-driven applications**. 
 
-### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+My work sits at the intersection of **software engineering and applied AI**—designing systems that are not only functional, but efficient, extensible, and production-ready.
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 🔭 Currently working on **system design, backend scalability, and real-world AI integrations**
+- 🌱 Exploring **high-performance computing (C++), distributed systems, and cloud-native architectures**
+- 💬 Comfortable discussing **full-stack development (React, Node.js)** and **LLM-powered applications**
+- ⚡ I enjoy refining solutions—whether it's improving system performance or optimizing algorithms down to the last detail
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🛠️ Tech Stack
 
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-</td>
-</tr>
-</table>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" /> |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> |
+| **DevOps & Tools**| <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,docker" /> |
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### [Gadget Genie](https://gadgetgenie.vercel.app/)
+*Smart shopping assistant that aggregates data across e-commerce giants.*
+- **Tech:** Python, Flask, React, YouTube API.
+- **Key Achievement:** Built a custom sentiment analysis pipeline to aggregate and weight user reviews from multiple sources.
 
-### 💬 [Chatty](https://github.com/krishh-9085/Chatty) — Real-time Chat Application
-**Tech Stack:** React · Node.js · Socket.io · MongoDB · Zustand
+### [Chatty — Real-time Chatting Application ](https://chatty-client-app.vercel.app/)
+*A high-performance real-time messaging platform built for speed and security.*
+- **Tech:** React, Node.js, **Socket.io**, Zustand, MongoDB.
+- **Key Achievement:** Implemented seamless state synchronization and optimized WebSocket connections for low-latency messaging.
 
-- Full-stack **real-time messaging platform** with authentication and profile management
-- **Zustand** state management with sound notifications and online indicators  
-- Modern, responsive UI using TailwindCSS with seamless cross-device performance
-
-</td>
-<td width="50%">
-
-### 🛒 [Shopeee](https://github.com/ishansh1200/SHOPEEE) — Smart Product Comparison
-**Tech Stack:** React · TailwindCSS · MongoDB
-
-- **AI-driven platform** comparing Flipkart and Amazon prices in real time
-- Integrated **YouTube API** for authentic product reviews and unboxings
-- Automated best-deal recommendations using sentiment analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 [SkillSight](https://github.com/krishh-9085/SkillSight-Resume-Analyzer) — Resume Analyzer
-**Tech Stack:** TypeScript · React · Puter.js · PDF.js
-
-- **AI-powered tool** generating ATS compatibility scores and feedback
-- Optimized backend with **Puter.js** for scalable data handling
-- Interactive visualization dashboard for real-time analytics
-
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- Mastering **Data Structures & Algorithms**
-- Building **high-performance backend systems**
-- Exploring **AI integrations** in full-stack apps
-
-<br/>
-
-**[📂 View All Projects →](https://krishnarohilla.me)**
-
-</td>
-</tr>
-</table>
+### [ParseX-Resume Analyzer](https://skill-sight-resume.vercel.app/)
+*Helping job seekers beat the bots with data-driven feedback.*
+- **Tech:** TypeScript, React, NLP for keyword extraction.
+- **Key Achievement:** Developed an algorithm to calculate ATS compatibility scores based on industry-standard parsing techniques.
 
 ---
 
+## 📈 My GitHub Journey
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="Snake animation" />
-  
-  <br/><br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=krishh-9085&color=blueviolet&style=for-the-badge)
-  
-  <p><em>💡 Open to collaboration on innovative projects and opportunities!</em></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishh-9085&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh-9085&theme=tokyonight&border_radius=10" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh-9085&layout=compact&theme=tokyonight&border_radius=10" width="400"/>
+</div>
+
+### 🐍 Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/krishh-9085/krishh-9085/output/github-snake.svg" />
+</div>
+
+---
+
+## 💡 Let's Connect
+I'm always looking for interesting projects to collaborate on or internship opportunities where I can apply my AI/ML and Full Stack skills.
+
+- 💬 **DM me on LinkedIn** for a quick chat.
+- 📫 **Email me:** [rohillakrish2@gmail.com](mailto:rohillakrish2@gmail.com)
+- 🤝 **Open for:** Open Source contributions & Full-time opportunities.
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=krishh-9085&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
