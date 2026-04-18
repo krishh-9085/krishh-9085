@@ -65,27 +65,37 @@ My work sits at the intersection of **software engineering and applied AI**—de
 ## 📈 My GitHub Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishh-9085&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh-9085&theme=tokyonight&border_radius=10" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishh-9085&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=krishh-9085&theme=tokyonight&border_radius=10&hide_border=true" height="170"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh-9085&layout=compact&theme=tokyonight&border_radius=10" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh-9085&layout=compact&theme=tokyonight&border_radius=10&hide_border=true"/>
+
 </div>
 
 ### 🐍 Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishh-9085/krishh-9085/output/github-snake.svg" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishh-9085/krishh-9085/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishh-9085/krishh-9085/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/krishh-9085/krishh-9085/output/github-snake.svg">
+</picture>
 </div>
 
 ---
 
-## 💡 Let's Connect
-I'm always looking for interesting projects to collaborate on or internship opportunities where I can apply my AI/ML and Full Stack skills.
+## 💡 Connect
 
-- 💬 **DM me on LinkedIn** for a quick chat.
-- 📫 **Email me:** [rohillakrish2@gmail.com](mailto:rohillakrish2@gmail.com)
-- 🤝 **Open for:** Open Source contributions & Full-time opportunities.
+I’m open to meaningful collaborations, engineering roles, and opportunities where I can contribute to building scalable systems and applied AI solutions.
+
+- 💬 Reach out on **[LinkedIn](https://linkedin.com/in/krishna-rohilla)** for professional conversations  
+- 📫 Contact me at **[rohillakrish2@gmail.com](mailto:rohillakrish2@gmail.com)**  
+- 🤝 Open to **internships, full-time roles, and impactful open-source work**
 
 <div align="center">
   <br />
